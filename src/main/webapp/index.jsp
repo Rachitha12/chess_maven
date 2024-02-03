@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chess board</title>
-<style>#nav{
+<style>
+#nav{
     border:2px solid black;
     height:1000px;
     width:1000px;
