@@ -57,7 +57,7 @@ left:286px;
 #rock4{
     font-size:80px;
     position:absolute;
-color:blue;
+color:red;
 top:30px;
 right:286px;
 
