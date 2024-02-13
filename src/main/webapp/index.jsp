@@ -69,7 +69,7 @@ right:286px;
     position: absolute;
     left:295px;
     top:155px;
-    color: blue;
+    color: red;
 }
 
 #pawn2{
