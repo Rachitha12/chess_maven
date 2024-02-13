@@ -221,7 +221,7 @@ top:780px;
     font-size:80px;
     position: absolute;
     top:30px;
-    color:blue;
+    color:red;
     left:412px;
 }
 
