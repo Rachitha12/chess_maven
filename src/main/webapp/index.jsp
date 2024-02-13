@@ -176,7 +176,7 @@ top:780px;
     top:780px;
     font-size:80px;
     position: absolute;
-    color:slategrey;
+    color:rgb(243, 25, 235);
     left:670px;
 }
 
