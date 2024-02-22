@@ -176,7 +176,7 @@ top:780px;
     top:780px;
     font-size:80px;
     position: absolute;
-    color:rgb(243, 25, 235);
+    color:slategrey;
     left:670px;
 }
 
@@ -322,7 +322,7 @@ top:780px;
 }
 
 #pawn1:hover{
-    transform: translatey(125px);
+    transform: translate(125px);
 }
 
 
