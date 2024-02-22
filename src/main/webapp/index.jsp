@@ -57,7 +57,7 @@ left:286px;
 #rock4{
     font-size:80px;
     position:absolute;
-color:red;
+color:blue;
 top:30px;
 right:286px;
 
@@ -69,7 +69,7 @@ right:286px;
     position: absolute;
     left:295px;
     top:155px;
-    color: red;
+    color: blue;
 }
 
 #pawn2{
@@ -221,7 +221,7 @@ top:780px;
     font-size:80px;
     position: absolute;
     top:30px;
-    color:red;
+    color:blue;
     left:412px;
 }
 
