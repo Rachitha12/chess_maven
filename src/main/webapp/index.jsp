@@ -11,7 +11,7 @@
 #nav{
     border:2px solid black;
     height:1000px;
-    width:1000px;
+    width:1000px; 
 }
 
 .div{
